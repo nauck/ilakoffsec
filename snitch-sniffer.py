@@ -1,3 +1,3 @@
 #!/usr/bin/python
 
-print("Test")
+print("coldplay")
